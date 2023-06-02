@@ -11,6 +11,8 @@ Autonomous Mobile Robot with Moving Obstacle Avoidance Based on Simulation and R
 
 学習の詳細は.yamlに記述しています。
 
+#　paper_slideフォルダに卒業論文と発表資料を掲載しています。
+
 ## 本研究で作成した学習済みモデルを使用したシミュレーション
 
 距離センサとグレースケールビジョンセンサを使用し、強化学習によって人障害物を回避するシミュレーション
