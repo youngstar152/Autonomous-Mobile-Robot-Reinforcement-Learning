@@ -11,6 +11,16 @@ Autonomous Mobile Robot with Moving Obstacle Avoidance Based on Simulation and R
 
 学習の詳細は.yamlに記述しています。
 
+This is a repository about my graduation research.
+
+This research is built with Pytorch, Unity and C#.
+
+Unity and C# for building the simulation environment and controlling the human obstacle and the mobile robot.
+
+Pytorch and ML-Agent are used to create the models, and .onnx are loaded on Unity.
+
+The details of the training are described in .yaml.
+
 # paper_slideフォルダ
 卒業論文と発表資料を掲載しています。
 
