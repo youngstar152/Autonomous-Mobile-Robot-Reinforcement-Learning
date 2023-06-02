@@ -1,10 +1,14 @@
 # Autonomous-Mobile-Robot-Reinforcement-Learning
 Autonomous Mobile Robot with Moving Obstacle Avoidance Based on Simulation and Reinforcement Learning
+
 卒業研究に関するリポジトリです。
 
 本研究はPytorchとUnity、C#で構築されています。
+
 シミュレーション環境の構築、人障害物と移動ロボットの制御はUnity、C#
+
 モデルの作成にPytorch、ML-Agentで.onnxを作成し、Unity上で.onnxを読み込んでいます。
+
 学習の詳細は.yamlに記述しています。
 
 ## 本研究で作成した学習済みモデルを使用したシミュレーション
